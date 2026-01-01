@@ -1,4 +1,4 @@
-# 🧩 primeiroProjeto
+# 🧩 PRIMEIRO-PROJETO
 
 > 🌐 Projeto web educacional desenvolvido como prática inicial de **HTML**, focado em estruturação de páginas e organização de conteúdo.
 
